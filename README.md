@@ -13,10 +13,15 @@ A list of tools for GEOINT.
 * https://overpass-turbo.eu/
 * https://maps.mail.ru/osm/tools/overpass/
 
-## Location Auto-Detection
+## Location Auto-Detectors
 
 * https://labs.tib.eu/geoestimation/
 
 ## Social Network Photos
 
 * https://fotomapia.ru/
+
+## Buildings Databases
+
+* https://photobuildings.com - year/construction project/photo
+* https://pastvu.com - historical photos
