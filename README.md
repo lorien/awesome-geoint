@@ -25,3 +25,4 @@ A list of tools for GEOINT.
 
 * https://photobuildings.com - year/construction project/photo
 * https://pastvu.com - historical photos
+* https://www.citywalls.ru - historical data of Saint-Petersburg buildings
